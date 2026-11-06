@@ -5416,43 +5416,5 @@
 <g:product_detail><g:section_name>General</g:section_name><g:attribute_name>Size</g:attribute_name><g:attribute_value>24 × 36 inches</g:attribute_value></g:product_detail>
 <g:product_detail><g:section_name>General</g:section_name><g:attribute_name>Personalized</g:attribute_name><g:attribute_value>Yes</g:attribute_value></g:product_detail>
 </item>
-<item><g:id>shopify_ZZ_15725136871535_68208310452335</g:id>
-<g:product_type>Personalized blanket</g:product_type>
-<g:size>30 × 40 inches</g:size>
-<g:item_group_title>Family Photo Collage Blanket with Name and Year</g:item_group_title>
-<g:variant_option><g:name>Size</g:name><g:value>30 × 40 inches</g:value></g:variant_option>
-<g:product_highlight>Photos: upload up to 8 photos (one per square; with fewer, we repeat your photos to fill the grid)</g:product_highlight>
-<g:product_highlight>Family name: up to 18 characters</g:product_highlight>
-<g:product_highlight>Year: 4 digits</g:product_highlight>
-<g:product_highlight>Optional line: up to 28 characters</g:product_highlight>
-<g:product_highlight>Any mix of people, places and pets works; faces near the middle of the photo crop best</g:product_highlight>
-<g:product_highlight>Well lit and in focus; send the original file from your phone (screenshots print blurry)</g:product_highlight>
-<g:product_highlight>Larger photos look sharper, most of all on the 60 x 80 in size</g:product_highlight>
-<g:product_highlight>Sizes: 30 x 40 in (throw) and 60 x 80 in (bed size), landscape</g:product_highlight>
-<g:product_highlight>Mink-touch polyester fleece with a light sheen</g:product_highlight>
-<g:product_highlight>Printed on the front; the back is plain white</g:product_highlight>
-<g:product_highlight>Dye-sublimation print</g:product_highlight>
-<g:product_detail><g:section_name>General</g:section_name><g:attribute_name>Size</g:attribute_name><g:attribute_value>30 × 40 inches</g:attribute_value></g:product_detail>
-<g:product_detail><g:section_name>General</g:section_name><g:attribute_name>Personalized</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-</item>
-<item><g:id>shopify_ZZ_15725136871535_68208310485103</g:id>
-<g:product_type>Personalized blanket</g:product_type>
-<g:size>60 × 80 inches</g:size>
-<g:item_group_title>Family Photo Collage Blanket with Name and Year</g:item_group_title>
-<g:variant_option><g:name>Size</g:name><g:value>60 × 80 inches</g:value></g:variant_option>
-<g:product_highlight>Photos: upload up to 8 photos (one per square; with fewer, we repeat your photos to fill the grid)</g:product_highlight>
-<g:product_highlight>Family name: up to 18 characters</g:product_highlight>
-<g:product_highlight>Year: 4 digits</g:product_highlight>
-<g:product_highlight>Optional line: up to 28 characters</g:product_highlight>
-<g:product_highlight>Any mix of people, places and pets works; faces near the middle of the photo crop best</g:product_highlight>
-<g:product_highlight>Well lit and in focus; send the original file from your phone (screenshots print blurry)</g:product_highlight>
-<g:product_highlight>Larger photos look sharper, most of all on the 60 x 80 in size</g:product_highlight>
-<g:product_highlight>Sizes: 30 x 40 in (throw) and 60 x 80 in (bed size), landscape</g:product_highlight>
-<g:product_highlight>Mink-touch polyester fleece with a light sheen</g:product_highlight>
-<g:product_highlight>Printed on the front; the back is plain white</g:product_highlight>
-<g:product_highlight>Dye-sublimation print</g:product_highlight>
-<g:product_detail><g:section_name>General</g:section_name><g:attribute_name>Size</g:attribute_name><g:attribute_value>60 × 80 inches</g:attribute_value></g:product_detail>
-<g:product_detail><g:section_name>General</g:section_name><g:attribute_name>Personalized</g:attribute_name><g:attribute_value>No</g:attribute_value></g:product_detail>
-</item>
 </channel>
 </rss>
